@@ -5,8 +5,6 @@
 <p align="left">📈 Always learning, I'm excited to explore <strong>new technologies</strong> in data visualization and analysis.</p>
 <p align="left">🤝 Open to <strong>collaboration</strong> on innovative, data-driven projects and ready to tackle new challenges.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tedr5&label=Profile%20views&color=0e75b6&style=flat" alt="tedr5" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/t-r-data" target="_blank">
@@ -38,4 +36,5 @@
   
 </p>
 
-![Total Views](https://u8views.com/github/tedr5) ![Daily Views](https://u8views.com/github/daily/tedr5)
+[![Thomas R profile views](https://u8views.com/api/v1/github/profiles/32312532/views/day-week-month-total-count.svg)](https://u8views.com/github/tedr5)
+
